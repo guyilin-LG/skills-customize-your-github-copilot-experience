@@ -4,13 +4,13 @@
     "school": "Mergington High School",
     "description": "Introduction to programming and computer science"
   },
+  
   "assignments": [
-    {
-      "id": "python-basics",
+    { "id": "python-basics",
       "title": "Python Basics",
       "description": "Variables, data types, conditionals, and loops",
       "path": "assignments/python-basics",
-      "dueDate": "2026-01-01",
+      "dueDate": "2026-03-01",
       "attachments": [
         {
           "name": "Starter Code",
@@ -19,19 +19,17 @@
         }
       ]
     },
-    {
-      "id": "games-in-python",
+    { "id": "games-in-python",
       "title": "Games in Python",
       "description": "Creating games using Python",
       "path": "assignments/games-in-python",
-      "dueDate": "2026-01-16"
+      "dueDate": "2026-03-16"
     },
-    {
-      "id": "python-classes",
+    { "id": "python-classes",
       "title": "Python Classes",
       "description": "Defining and using classes in Python",
       "path": "assignments/python-classes",
-      "dueDate": "2026-01-26",
+      "dueDate": "2026-03-26",
       "attachments": [
         {
           "name": "Starter Code",
@@ -40,12 +38,11 @@
         }
       ]
     },
-    {
-      "id": "data-analysis",
+    { "id": "data-analysis",
       "title": "Data Analysis",
       "description": "Basics of data analysis: loading, exploring, and visualizing data in Python.",
       "path": "assignments/data-analysis",
-      "dueDate": "2026-03-01",
+      "dueDate": "2026-05-01",
       "attachments": [
         {
           "name": "Starter Code",
