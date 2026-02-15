@@ -23,7 +23,14 @@
       "title": "Games in Python",
       "description": "Creating games using Python",
       "path": "assignments/games-in-python",
-      "dueDate": "2026-01-16"
+      "dueDate": "2026-01-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     },
     { "id": "python-classes",
       "title": "Python Classes",
@@ -53,6 +60,24 @@
           "name": "Sample Dataset",
           "file": "data.csv",
           "type": "csv"
+        }
+      ]
+    },
+    { "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create modern REST APIs using FastAPI framework with automatic documentation",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-02-22",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements File",
+          "file": "requirements.txt",
+          "type": "text"
         }
       ]
     }
